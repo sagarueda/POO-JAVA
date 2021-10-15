@@ -1,7 +1,5 @@
 # POO-JAVA
 Msc_BigData - UMA
-in this problem three classes have been declared:
-Punto, Vector, Recta.
-
+Objetivo crear el Módulo mdRectas, se implementa composición y excepciones.
 
 
